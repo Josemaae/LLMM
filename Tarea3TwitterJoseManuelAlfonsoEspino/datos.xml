@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listados>
+	<listaEnlace>
+		<enlace>
+			<icono>
+				https://cdn.icon-icons.com/icons2/70/PNG/512/youtube_14198.png
+			</icono>
+			<nombre>
+				Youtube
+			</nombre>
+		</enlace>
+		<enlace>
+			<icono>
+				https://img2.freepng.es/20180331/cvw/kisspng-google-classroom-google-docs-g-suite-google-drive-classroom-5abfbaaf898920.7031114215225146075634.jpg
+			</icono>
+			<nombre>
+				Classroom
+			</nombre>
+		</enlace>	
+		<enlace>
+			<icono>
+				https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png
+			</icono>
+			<nombre>
+				Instagram
+			</nombre>
+		</enlace>
+		<enlace>
+			<icono>
+				https://img2.freepng.es/20180511/ssq/kisspng-facebook-inc-logo-computer-icons-facebook-messen-5af555fbaefdc9.9980502215260277717168.jpg
+			</icono>
+			<nombre>
+				Facebook
+			</nombre>
+		</enlace>			
+	</listaEnlace>	
+	<listaTwit>
+		<twit>
+			<nombre>Pepito</nombre>
+			<arroba>@pepitoGrilloOficial</arroba>
+			<texto>
+				Tiempos de fe, esperanza, amor, pero sobretodo agradecidos, un corazón agradecido a Dios es un acto de reconocer que dependemos de El! “Bendice, alma mía, a Jehová, Y bendiga todo mi ser su santo nombre. Bendice, alma mía, a Jehová, Y no olvides ninguno de sus beneficios”
+			</texto>
+			<imagen>
+				https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1200px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg
+			</imagen>
+		</twit>
+		<twit>
+			<nombre>Romualdo</nombre>
+			<arroba>@erRomu64</arroba>
+			<texto>
+				Lo del bloqueo de Trump da algo que pensar: 
+				-Twitter es una empresa privada y está en su derecho de expulsar a quien no cumpla sus condiciones.
+				-Pero cada vez más, gobiernos e instituciones públicas confían en esa empresa privada.
+				La legislación va completamente atrás.
+			</texto>
+			<imagen>
+				https://cflvdg.avoz.es/default/2020/01/18/00121579355221204625284/Foto/GE19P50F5_14468.jpg
+			</imagen>
+		</twit>
+		<twit>
+			<nombre>Abundio</nombre>
+			<arroba>@masTontoQue</arroba>
+			<texto>
+				Me veo como ese gel de baño que ya le pones boca  abajo para apurar lo poco que le queda.
+				Y colorin, colorado, este martes se me ha acabado.
+			</texto>
+			<imagen>
+				https://www.ecestaticos.com/image/clipping/9c0f39f68a99bd982908b6a07e048fd2/no-eres-tu-la-gente-se-ha-vuelto-mucho-mas-tonta-segun-un-estudio.jpg
+			</imagen>
+		</twit>
+		<twit>
+			<nombre>Federico</nombre>
+			<arroba>@fedeInge</arroba>
+			<texto>
+				Enigmático tráiler para CALLS, nueva serie de terror experimental de Fede Álvarez (EVIL DEAD) para Apple Tv con 9 llamadas de teléfono en clave Found Footage y diferentes efectos visuales, con voces de actores como Pedro Pascal, Lily Collins o Aubrey Plaza
+			</texto>
+			<imagen>
+				https://t.ipadizate.es/2021/03/Calls-es-el-pr%C3%B3ximo-thriller-de-Apple-TV-640x360.jpg
+			</imagen>
+		</twit>
+		<twit>
+			<nombre>Maximiliano</nombre>
+			<arroba>@massiPetruchi</arroba>
+			<texto>
+				Tiempos de fe, esperanza, amor, pero sobretodo agradecidos, un corazón agradecido a Dios es un acto de reconocer que dependemos de El! “Bendice, alma mía, a Jehová, Y bendiga todo mi ser su santo nombre. Bendice, alma mía, a Jehová, Y no olvides ninguno de sus beneficios”
+			</texto>
+			<imagen>
+				https://www.entornoturistico.com/wp-content/uploads/2020/02/Maximiliano-de-Habsburgo-1280x720.jpg
+			</imagen>
+		</twit>
+	</listaTwit>	
+	<listaSugerencia>
+		<sugerencia>
+			<imagen>
+				https://pbs.twimg.com/profile_images/627647252006346752/wDsssB_v_400x400.jpg
+			</imagen>
+			<name>Pirson</name>
+			<usename>@perroViejo</usename>
+			<boton>Seguir</boton>
+		</sugerencia>
+		<sugerencia>
+			<imagen>
+				https://imagenesbonitas.co/wp-content/uploads/2018/01/glasses-cat1.jpg
+			</imagen>
+			<name>Garfield</name>
+			<usename>@elGatete</usename>
+			<boton>Seguir</boton>
+		</sugerencia>
+		<sugerencia>
+			<imagen>
+				https://pbs.twimg.com/profile_images/862049562231492613/bXAiQbNh_400x400.jpg
+			</imagen>
+			<name>Penosete</name>
+			<usename>@elPenas</usename>
+			<boton>Seguir</boton>
+		</sugerencia>
+</listaSugerencia>
+</listados>
