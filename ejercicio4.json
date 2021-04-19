@@ -1,0 +1,52 @@
+{
+	"protagonistas":[
+		{
+			"nombre":"pepe",
+			"nombreDeLaSerie":"pepe y los compadres",
+			"mejorescapitulos":[
+				{
+					"nombre":"uno",
+				    "id":"1"
+				},
+				{
+					"nombre":"trenta",
+				    "id":"30"
+				}
+
+			],
+			"imagen":"url"
+		},
+		{
+			"nombre":"manolo",
+			"nombreDeLaSerie":"manolito gafotas",
+			"mejorescapitulos":[
+				{
+					"nombre":"cinco",
+				    "id":"5"
+				},
+				{
+					"nombre":"ocho",
+				    "id":"8"
+				}
+
+			],
+			"imagen":"url"
+		},
+		{
+			"nombre":"romualdo",
+			"nombreDeLaSerie":"romulo y remo",
+			"mejorescapitulos":[
+				{
+					"nombre":"quince",
+				    "id":"15"
+				},
+				{
+					"nombre":"seis",
+				    "id":"6"
+				}
+
+			],
+			"imagen":"url"
+		}
+	]
+}
