@@ -28,7 +28,7 @@
 			"humedad":"75",
 			"estado":{
 				"nombre":"NUBLADO",
-				"https://img.icons8.com/color/144/000000/summer--v2.png"
+				"icono": "https://img.icons8.com/color/144/000000/summer--v2.png"
 			}
 		},
 		{
