@@ -17,7 +17,7 @@
 			"viento":"3",
 			"humedad":"60",
 			"estado":{
-				"nombre":"Soleado",
+				"nombre":"SOLEADO",
 				"icono":"https://img.icons8.com/color/144/000000/summer--v2.png"
 			}
 		},
@@ -27,7 +27,7 @@
 			"viento":"5",
 			"humedad":"75",
 			"estado":{
-				"nombre":"Nublado",
+				"nombre":"NUBLADO",
 				"icono":"https://img.icons8.com/color/144/000000/summer--v2.png"
 			}
 		},
@@ -37,7 +37,7 @@
 			"viento":"15",
 			"humedad":"90",
 			"estado":{
-				"nombre":"Niebla",
+				"nombre":"NIEBLA",
 				"icono":"https://img.icons8.com/color/144/000000/summer--v2.png"
 			}
 		}
