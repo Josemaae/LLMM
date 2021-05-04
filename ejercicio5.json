@@ -8,7 +8,7 @@
 			"humedad":"46",
 			"estado":{
 				"nombre":"NIEVE",
-				"icono":"https://img.icons8.com/color/144/000000/summer--v2.png"
+				"icono":"https://img.icons8.com/color/144/000000/winter--v2.png"
 			}
 		},
 		{
@@ -28,7 +28,7 @@
 			"humedad":"75",
 			"estado":{
 				"nombre":"NUBLADO",
-				"icono":"https://img.icons8.com/color/144/000000/summer--v2.png"
+				"https://img.icons8.com/color/144/000000/windy-weather--v2.png"
 			}
 		},
 		{
@@ -38,7 +38,7 @@
 			"humedad":"90",
 			"estado":{
 				"nombre":"NIEBLA",
-				"icono":"https://img.icons8.com/color/144/000000/summer--v2.png"
+				"icono":"https://img.icons8.com/color/144/000000/winter--v2.png"
 			}
 		}
 	]
