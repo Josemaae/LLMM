@@ -7,3 +7,7 @@ Tarea2 URL:  https://josemaae.github.io/LLMM/Tarea2FormularioJSJoseManuelAlfonso
 
 Tarea3 URL: https://josemaae.github.io/LLMM/Tarea3TwitterJoseManuelAlfonsoEspino/index.html
 
+Tarea API URL: https://josemaae.github.io/LLMM/ApiJMAlfonso/index.html
+
+Portfolio URL: https://josemaae.github.io/LLMM/Portfolio/index.html
+
